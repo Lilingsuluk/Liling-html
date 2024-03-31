@@ -74,11 +74,22 @@
     </tr>
     <tr>
         <td>Jurusan</td>
-        <td>Manajemen Pendidikan islam</td>
+        <td><input type="radio"id="PAI"name="fav_languange"value="PAI">
+        <label for="PAI">PAI</label><br>
+        <input type="radio"id="MPI"name="fav_languange"value="MPI">
+        <label for="MPI">MPI</label><br>
+        <input type="radio"id="PBA"name="fav_languange"value="PBA">
+        <label for="PBA">PBA</label><br>
+        <input type="radio"id="PBI"name="fav_languange"value="PBI">
+        <label for="PBI">PBI</label><br>
+        <input type="radio"id="PGMI"name="fav-languange"value="PGMI">
+        <label for="PGMI">PGMI</label><br>
+        <input type="radio"id="PIAUD"name="fav-languange"value="PIAUD">
+        <laber for="PIAUD">PIAUD</laber><br>
     </tr>
     <tr>
-        <td>Kuliah</td> 
-        <td>UIN Walisongo Semarang</td>
+        <td>KULIAH</td>
+        <td>UIN WALISONGO <a href="https://walisongo.ac.id/">klik disini</a></td>
     </tr>
     <tr>
         <td>Phone</td>
@@ -86,7 +97,7 @@
     </tr>
     <tr>
         <td>Email</td>
-        <td>lilinglailatus@gmail.com</td>
+        <td><a href="mailto:lilinglailatus@gmail.com">lilinglailatus@gmail.com</a></td>
     </tr>
     <tr>
         <td>Data Diri</td>
